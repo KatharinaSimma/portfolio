@@ -17,18 +17,12 @@ function About() {
               About
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor id pariatur nostrud
-              labore nulla veniam sunt occaecat est officia ut cillum do eiusmod
-              enim consequat nulla in ut esse irure ex commodo excepteur
-              pariatur in consectetur consectetur in dolor aliqua ex sint minim
-              dolore ut ea ad dolor est deserunt incididunt exercitation qui
-              laboris ad do minim sunt elit occaecat excepteur deserunt sint
-              sunt laboris dolore amet sit fugiat tempor reprehenderit laborum
-              et irure commodo exercitation ea excepteur esse mollit ad nisi sit
-              laboris dolore ad sunt eiusmod dolore do nisi id commodo in et
-              aliqua sed ullamco ea id duis aliquip commodo qui sed aute ut
-              aliqua.
+              Hello I am Katharina. I am a full stack developer. I recently
+              found my true calling as a developer after a career as a project
+              coordinator. I am passionate about JavaScript and seek a deeper
+              understanding of programming languages. At the same time I want to
+              provide a good user experience. It is important to me that my work
+              has meaning and improves peoples' lives.
             </p>
           </div>
         </div>
