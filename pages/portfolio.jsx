@@ -16,7 +16,7 @@ function Portfolio() {
             <h1 data-cy="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">These are my projects!</p>
+            <p className="description">These are my projects ...</p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
